@@ -64,7 +64,7 @@
     "dependencies": {
         "async": "*",
         "jcore-lib": "git://github.com/jemcashproject/jcore-lib.git",
-        "bitcore-message-jemcash": "git://github.com/jemcashproject/bitcore-message-jemcash",
+        "bitcore-message-jemcash": "git://github.com/jemcashproject/bitcore-message-jemcash.git",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
         "decimal.js": "^10.0.2",
